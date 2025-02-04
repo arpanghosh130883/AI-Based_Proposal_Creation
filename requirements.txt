@@ -1,0 +1,4 @@
+openai==0.28
+streamlit
+fpdf
+python-dotenv
